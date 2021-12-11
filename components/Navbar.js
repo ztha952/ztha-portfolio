@@ -1,5 +1,4 @@
 import Link from "next/link";
-
 import * as React from "react";
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
@@ -9,7 +8,6 @@ import Typography from "@mui/material/Typography";
 import Menu from "@mui/material/Menu";
 import MenuIcon from "@mui/icons-material/Menu";
 import Container from "@mui/material/Container";
-
 import Button from "@mui/material/Button";
 import MenuItem from "@mui/material/MenuItem";
 
@@ -34,12 +32,12 @@ const ResponsiveAppBar = () => {
             <Typography
               variant="h6"
               noWrap
-              align='center'
+              
               component="div"
               sx={{ mr: 2, display: { xs: "none", md: "flex" } }}
               onClick={handleCloseNavMenu}
             >
-              ZTHA!
+              ZTHA
             </Typography>
           </Link>
 
@@ -85,7 +83,7 @@ const ResponsiveAppBar = () => {
             <Typography
               variant="h6"
               noWrap
-              
+              align='center'
               component="div"
               sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}
             >
