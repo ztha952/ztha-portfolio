@@ -84,6 +84,7 @@ const ResponsiveAppBar = () => {
             <Typography
               variant="h6"
               noWrap
+              align='center'
               component="div"
               sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}
             >
