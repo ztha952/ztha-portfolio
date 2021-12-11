@@ -42,7 +42,7 @@ const about = () => {
           <Typography variant="h5">I Love</Typography>
           <Typography variant="body1">
             Music, Photography, Travel, Reading, Watching Anime, Gaming,
-            Cryptocurrency, Minami Hamabe, and I Love to Code.
+            Cryptocurrency,Miyu, Minami Hamabe, and I Love to Code.
           </Typography>
         </div>
         <Link href="/projects" passHref>
