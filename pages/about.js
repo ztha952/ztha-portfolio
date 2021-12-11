@@ -34,7 +34,7 @@ const about = () => {
         <div style={{ marginBottom: "4rem" }}>
           <Typography variant="h5">Bio</Typography>
           <Typography variant="body1">
-            Born in 2000. Studied in Yangon University of Technology. Graduated
+            Born in 2000. Studied in Yangon University of Foreign Languages. Graduated with Japanese Language Specialize
             in 2023.
           </Typography>
         </div>
