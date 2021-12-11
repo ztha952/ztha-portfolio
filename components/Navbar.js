@@ -34,6 +34,7 @@ const ResponsiveAppBar = () => {
             <Typography
               variant="h6"
               noWrap
+              align='center'
               component="div"
               sx={{ mr: 2, display: { xs: "none", md: "flex" } }}
               onClick={handleCloseNavMenu}
@@ -84,7 +85,7 @@ const ResponsiveAppBar = () => {
             <Typography
               variant="h6"
               noWrap
-              align='center'
+              
               component="div"
               sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}
             >
