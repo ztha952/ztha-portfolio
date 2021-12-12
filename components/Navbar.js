@@ -85,7 +85,7 @@ const ResponsiveAppBar = () => {
               noWrap
               align='center'
               component="div"
-              sx={{ flexGrow: 1.5, display: { xs: "flex", md: "none" } }}
+              sx={{ flexGrow: 1.4, display: { xs: "flex", md: "none" } }}
             >
               ZTHA
             </Typography>
