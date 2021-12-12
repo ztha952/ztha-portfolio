@@ -36,13 +36,13 @@ const projects = () => {
               <Grid item key={project.id} wrap="wrap">
                 <a href={project.link}>
                   <Card key={project.id}  style={{ backgroundColor: "#272727" }} sx={{ maxWidth: 330, minWidth: 310 }}>
-                    <CardActionArea className={Styles.p}>
+                    <CardActionArea>
                       <CardMedia
                         component="img"
                         height="140"
                         image={project.img}
                         alt="projects"
-                        className={Styles.p_img}
+                        
                       />
                       <CardContent className={Styles.vg}>
                         <Typography gutterBottom variant="h5" component="div">
