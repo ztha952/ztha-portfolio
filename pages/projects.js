@@ -16,13 +16,13 @@ const projects = () => {
         <title>Projects</title>
       </Head>
 
-      <div style={{ minHeight: "100vh" }}>
+      <div >
         <div style={{ padding: "10px", marginTop: "20px" }}>
           <Typography variant="h4" align="center" component="h1">
-            My Projects
+            My Works
           </Typography>
           <Typography variant="h6" align="center" component="h1">
-            Design For EveryOne & Make Your Life Easier
+            Cozy Design & Make Life Easier
           </Typography>
         </div>
         <div style={{ marginTop: "2rem", marginBottom: "2rem" }}>
