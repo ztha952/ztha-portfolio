@@ -22,7 +22,7 @@ export default function Home() {
           justifyContent: "center",
           alignItems: "center",
           minHeight: "100vh",
-          gap: '5rem'
+          gap: '3.5rem'
         }}
       >
         <Image
