@@ -12,14 +12,14 @@ const about = () => {
       </Head>
       <div
         style={{
-          margin: " 3rem",
-          minHeight: "100vh",
+          margin: " 3rem"
+         
         }}
       >
         <div style={{ marginBottom: "4rem" }}>
           <Typography variant="h4">Zaw Tint Htoo Aung</Typography>
           <Typography variant="subtitle1">
-            Frondend Web Developer and Designer
+            Frondend Web Developer and UI/UX Designer
           </Typography>
         </div>
         <div style={{ marginBottom: "4rem" }}>
