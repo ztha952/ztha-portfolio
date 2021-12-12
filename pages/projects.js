@@ -35,7 +35,7 @@ const projects = () => {
             {pjs.map((project) => (
               <Grid item key={project.id} wrap="wrap">
                 <a href={project.link}>
-                  <Card key={project.id} sx={{ maxWidth: 330, minWidth: 310 }}>
+                  <Card key={project.id}  style={{ backgroundColor: "#272727" }} sx={{ maxWidth: 330, minWidth: 310 }}>
                     <CardActionArea className={Styles.p}>
                       <CardMedia
                         component="img"
