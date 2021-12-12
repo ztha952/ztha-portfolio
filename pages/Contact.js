@@ -36,12 +36,12 @@ const Contact = () => {
       </Head>
       <div
         style={{
-          margin: " 3rem 4rem",
-          minHeight: "100vh",
+          margin: " 2rem 4rem",
+          
         }}
       >
         <Typography variant="h4" align="center">
-          Start Your Journey With Mee!
+          Start Your Journey With Me!
         </Typography>
 
         <form
