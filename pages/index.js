@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import me from "../assets/me.png";
+import me from "../assets/ztha.webp";
 import Typography from "@mui/material/Typography";
 import Styles from "../styles/Layout.module.css";
 import Link from "next/link";
