@@ -21,8 +21,8 @@ export default function Home() {
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
-
           minHeight: "100vh",
+          gap: '5rem'
         }}
       >
         <Image
@@ -42,8 +42,8 @@ export default function Home() {
             React Developer & UI Designer
           </Typography>
         </div>
-        <Link href="/Contact" passHref>
-          <Button variant="contained">Contact Me</Button>
+        <Link href="/projects" passHref>
+          <Button variant="contained">My Portfolio</Button>
         </Link>
       </div>
     </>
