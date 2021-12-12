@@ -12,7 +12,7 @@ const PostCard = ({ post }) => {
   return (
     <>
       <Link href={`/post/${post.slug}`} passHref>
-        <Card sx={{ maxWidth: 330, minWidth: 330 }}>
+        <Card  style={{ backgroundColor: "#272727" }} sx={{ maxWidth: 330, minWidth: 330 }}>
           <CardActionArea>
             <CardMedia
               component="img"
