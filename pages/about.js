@@ -45,10 +45,10 @@ const about = () => {
             Cryptocurrency,Miyu, Minami Hamabe, and I Love to Code.
           </Typography>
         </div>
-        <Link href="/projects" passHref>
+        <Link href="/Contact" passHref>
           <div style={{ marginTop: "3rem", textAlign: "center" }}>
             <Button variant="contained" align="center" color="primary">
-              My Portfolio
+              Contact Me
             </Button>
           </div>
         </Link>
