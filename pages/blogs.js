@@ -12,10 +12,10 @@ const blogs = ({ posts }) => {
       <Head>
         <title>My Blogs</title>
       </Head>
-      <div style={{ marginBottom: "4rem", minHeight: "100vh" }}>
+      <div style={{ marginBottom: "4rem" }}>
         <div style={{ marginTop: "40px", marginBottom: "40px" }}>
           <Typography variant="h4" align="center">
-            Welcome To My Blogs
+            Blog Cafe
           </Typography>
         </div>
         <div style={{ marginTop: "1rem", marginBottom: "1rem" }}>
