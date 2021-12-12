@@ -85,12 +85,12 @@ const ResponsiveAppBar = () => {
               noWrap
               align='center'
               component="div"
-              sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}
+              sx={{ flexGrow: 1.5, display: { xs: "flex", md: "none" } }}
             >
               ZTHA
             </Typography>
           </Link>
-          <Box sx={{ flexGrow: 1.5, display: { xs: "none", md: "flex" } }}>
+          <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             {pages.map((page) => (
               <Link href={`/${page.toLowerCase()}`} key={page} passHref>
                 <Button
