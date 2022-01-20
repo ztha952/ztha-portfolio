@@ -1,6 +1,12 @@
 export const pjs = [
   {
     id: 1,
+    name: "Japan-Myanmar Dic",
+    img: "https://ibb.co/SyzxyHx",
+    link: "https://jp-dic.herokuapp.com/",
+  },
+  {
+    id: 10,
     name: "N&CO HOMEMADE(UX)",
     img: "https://i.ibb.co/jgwxQfy/pj-3.webp",
     link: "https://www.figma.com/file/RLujD6AYvRhvw7ikI8ltbr/Test-Design?node-id=101%3A2",
