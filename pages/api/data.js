@@ -2,7 +2,7 @@ export const pjs = [
   {
     id: 1,
     name: "Japan-Myanmar Dic",
-    img: "https://ibb.co/SyzxyHx",
+    img: "https://i.ibb.co/bmk3mY3/image.png",
     link: "https://jp-dic.herokuapp.com/",
   },
   {
